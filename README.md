@@ -2,7 +2,7 @@
 This is open source.
 
 ### Reason for this Project
-My name is Paige Clemons, and I am a student at Clemson University and the main complaint around campus is that parking is a major hassle.  If students and faculty had an app to see available parking spots in all parking locations on campus, it would make our lives easier and relieve one minor stress for most on campus.
+My name is Paige Clemons, and I am a student at Clemson University and the main complaint around campus is that parking is a major hassle.  A more robust version of this project was mentioned in one of my computer sience classes and the idea has stuck with me since because if students and faculty had an app to see available parking spots in all parking locations on campus, it would make our lives easier and relieve one minor stress for most on campus.
 
 ### Mission Statement
 The CU Parking Problems app will be an IOS app that will allow student and faculty at Clemson University to be able to easily find available parking spots on the campus.
@@ -17,6 +17,9 @@ The CU Parking Problems app will be an IOS app that will allow student and facul
 
 ### Requirements:
 * Must run on IOS 13
+
+### Development Status
+Right now this project is merely an idea, and has yet to start development.
 
 ### Getting Started
 #### Prerequisites
