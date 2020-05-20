@@ -9,4 +9,4 @@ Any contribution is welcomed with open arms. This project would not be possible 
 
 ### Expected Behavior
 * Simply put respect your peers. 
-* Please see the requirements list [here] (README.md)
+* Please see the requirements list [here](README.md)
