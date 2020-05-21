@@ -29,6 +29,7 @@ Right now this project is merely an idea, and has yet to start development.
 
 ### Want to Contribute?
 If you want to contribute please go [here](CONTRIBUTING.md) first.
+Also check the [code of conduct](CODE_OF_CONDUCT.md).
 
 ### Contact
 Any questions or concerns can be emailed to pclemon@g.clemson.edu
