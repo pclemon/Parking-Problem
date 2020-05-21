@@ -1,4 +1,4 @@
-# CU Parking Problems
+# I C.U. Parking
 This is open source.
 
 ### Reason for this Project
