@@ -129,3 +129,6 @@ https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
 
 
+##Resource
+I got this Code of Conduct from [Contributor Covenant](https://www.contributor-covenant.org/).
+
