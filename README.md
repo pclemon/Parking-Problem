@@ -1,5 +1,6 @@
 # I C.U. Parking
 This is open source.
+This software is licensed under the [AGPL license](LICENSE.md) which was retrieved [from choosealicense.com](https://choosealicense.com/licenses/agpl-3.0/#).
 
 ### Reason for this Project
 My name is Paige Clemons, and I am a student at Clemson University and the main complaint around campus is that parking is a major hassle.  A more robust version of this project was mentioned in one of my computer sience classes and the idea has stuck with me since because if students and faculty had an app to see available parking spots in all parking locations on campus, it would make our lives easier and relieve one minor stress for most on campus.
